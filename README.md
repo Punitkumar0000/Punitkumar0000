@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitkumar0000&label=Profile%20views&color=0e75b6&style=flat" alt="punitkumar0000" /> </p>
 
-- 🌱 I’m currently learning **Node.js , React.js & Android Studio**
+- 🌱 I’m currently learning **Spring Boot , React.js & Generative AI**
 
 - 💬 Ask me about **Java , JavaScript , MySQL & SDLC**
 
